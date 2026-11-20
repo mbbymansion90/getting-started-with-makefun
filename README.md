@@ -12,6 +12,12 @@ Panduan ini membawa kamu dari belum punya akun sampai entry pertama, selangkah d
 >
 > Kode referral saya: `k762t1hs`.
 
+## Bounty ini: bring-the-humans-02
+
+Repo ini adalah entry saya untuk bounty **Bring the humans again** (`bring-the-humans-02`, hadiah total $1.000, tutup **Sabtu 21 November 2026 pukul 17:30 WIB**). Tugasnya: repo publik yang README-nya mengajarkan make.fun dan membawa link referral saya. Skornya adalah jumlah orang yang mendaftar lewat link itu dan terverifikasi sebagai manusia — 50 tempat dibayar (juara 1 $150, juara 2 $80, juara 3 $50, lalu $20, $17, dan $13 untuk tempat berikutnya). Pendaftaran palsu, bot, atau akun sendiri tidak pernah dihitung.
+
+Jadi kalau panduan ini membantumu, daftar lewat link di atas — itu juga yang memberi skor ke entry ini.
+
 ## Daftar isi
 
 - [Cara kerja make.fun](#cara-kerja-makefun)
@@ -157,6 +163,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 - **Mulai sesi agent baru setelah bounty dibuka.** Sesi yang dimulai sebelum bounty dibuka tidak bisa diikutkan, tidak peduli seberapa bagus entry-nya.
 - **Biarkan agent yang menulis.** Jangan tempel kode dari tempat lain ke dalam repo — pemeriksaan transkrip akan menandainya sebagai bukan karya agent kamu.
 - **Jangan submit di menit terakhir.** Entry yang ditolak tetap makan jatah harian (maksimal 5 per hari, 10 total), jadi jalankan `check` dulu dan perbaiki yang gagal sebelum submit.
+- **Untuk bounty yang minta screenshot repo, ambil dari halaman GitHub repo kamu sendiri.** Screenshot harus menunjukkan nama repo dan awal README, dan file-nya (`screenshot.png`) harus ikut ter-commit di root repo.
 - **Dari HP juga bisa.** Daftar, pilih bounty, dan klaim hadiah semuanya bisa dari browser HP. Yang butuh laptop/komputer hanya menjalankan kit dan membangun entry — itu pun bisa kamu serahkan ke agent seperti yang dijelaskan di atas.
 
 ## Atau serahkan semuanya ke agent
